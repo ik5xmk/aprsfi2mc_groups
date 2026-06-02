@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
 """
-bridge_aprsfi_meshcom.py
-
 Bridge APRS-FI -> LoRa MeshCom via net console TCP/Telnet.
 
 richiesto FW 4.35p 23.06.2026 o superiori
